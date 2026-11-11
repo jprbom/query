@@ -61,7 +61,7 @@
     "jsdom": "^27.0.0",
     "knip": "^6.0.2",
     "markdown-link-extractor": "^4.0.2",
-    "nx": "22.1.3",
+    "nx": "22.7.10",
     "premove": "^4.0.0",
     "prettier": "^3.7.4",
     "prettier-plugin-svelte": "^3.4.0",
@@ -80,7 +80,7 @@
     "typescript58": "npm:typescript@5.8",
     "typescript59": "npm:typescript@5.9",
     "typescript60": "npm:typescript@6.0.1-rc",
-    "vite": "^6.4.1",
+    "vite": "^6.4.5",
     "vitest": "^4.0.18"
   },
   "pnpm": {
@@ -100,7 +100,7 @@
       "@typescript-eslint/utils": "8.58.1",
       "@typescript-eslint/visitor-keys": "8.58.1",
       "typescript-eslint": "8.58.1",
-      "vite": "^6.4.1",
+      "vite": "^6.4.5",
       "esbuild": "^0.27.2"
     }
   }
